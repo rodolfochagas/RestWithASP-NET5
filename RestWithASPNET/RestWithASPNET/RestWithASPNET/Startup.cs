@@ -121,7 +121,7 @@ namespace RestWithASPNET
                 c.SwaggerDoc("v1",
                     new OpenApiInfo
                     {
-                        Title = "REST APIs",
+                        Title = "REST APIs - Foo Bar",
                         Version = "v1",
                         Description = "API developed",
                         Contact = new OpenApiContact
