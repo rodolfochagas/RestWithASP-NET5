@@ -46,8 +46,7 @@ namespace RestWithASPNET.Business
                 PageSize = size,
                 SortDirections = sort,
                 TotalResults = totalResults
-            }
-                ;
+            };
         }
 
         public PersonVO FindById(long id)
